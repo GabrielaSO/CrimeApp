@@ -1,9 +1,9 @@
 {
     "$schema": "https://json-schema.org",
-    "title": "LocationCollection",
+    "title": "crime hotspots",
     "type": "object",
     "properties": {
-        "crime_location": {
+        "incident_location": {
             "type": "object",
             "properties": {
                 "address": {
@@ -15,17 +15,29 @@
                     "country": "string"
                 },
                 "coordinates": {
-                    "latitude": "float",
-                    "longitude": "float"
+                    "type": "object",
+                    "latitude": {
+                        "type": "number",
+                        "minimum": -90,
+                        "maximum": 90
+                    },
+                    "longitude": {
+                        "type": "number",
+                        "minimum": -180,
+                        "maximum": 180
+                    }
                 }
             },
-            "date": "date-time",
-            "time": "date-time",
+            "dateTime": {
+                "type": "string",
+                "format": "date-time"
+            },
             "description": "string",
             "category": "string",
             "required": [
                 "address",
-                "coordinates"
+                "coordinates",
+                "dateTime"
             ]
         }
     }
