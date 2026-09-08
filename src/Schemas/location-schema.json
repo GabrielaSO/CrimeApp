@@ -1,0 +1,32 @@
+{
+    "$schema": "https://json-schema.org",
+    "title": "LocationCollection",
+    "type": "object",
+    "properties": {
+        "crime_location": {
+            "type": "object",
+            "properties": {
+                "address": {
+                    "Street": "string",
+                    "Number": "integer",
+                    "city": "string",
+                    "zip": "integer",
+                    "state": "string",
+                    "country": "string"
+                },
+                "coordinates": {
+                    "latitude": "float",
+                    "longitude": "float"
+                }
+            },
+            "date": "date-time",
+            "time": "date-time",
+            "description": "string",
+            "category": "string",
+            "required": [
+                "address",
+                "coordinates"
+            ]
+        }
+    }
+}
