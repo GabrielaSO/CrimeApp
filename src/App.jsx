@@ -1,10 +1,16 @@
 import { useState } from 'react'
+import Header from './components/Header/header.jsx'
+import Map from './components/Map/map.jsx'
+import Footer from './components/Footer/footer.jsx'
 
-import './App.css'
+//import './App.css'
 
-function App() {
-
- 
+export default function App() {
+    return (
+    <div>
+        <Header />
+        <Map />
+        <Footer />
+    </div>
+    )
 }
-
-export default App
