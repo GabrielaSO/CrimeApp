@@ -1,11 +1,10 @@
 header.header {
     background-color: #5a5a5a;
-    color: #fff;
-    display: block;
+    color: white;
+    display: flex;
     height: 90px;
     justify-content: space-between;
-    align-items: center;
-    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.527);
+    box-shadow: 0 2px 8px 0 rgba(0, 0, 0, 0.527);
     position: relative;
     /* Helps layer the shadow correctly */
     z-index: 10;
@@ -15,7 +14,6 @@ header .header-content {
     display: inline-flex;
     align-items: center;
     /*gap: 10px; Adjust the gap as needed */
-    margin: 0 auto;
 }
 
 header img.header-logo {
@@ -25,8 +23,29 @@ header img.header-logo {
 
 header h1 {
     font-size: 40px;
-    color: #fff;
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
     font-family: 'Segoe UI', sans-serif;
     font-weight: 700;
     display: inline;
+}
+
+header nav.nav-container {
+    display:inline-flex;
+    margin-right: 20px;
+    align-items: center;
+}
+
+header nav ul {
+    display: flex;
+    gap: 20px;
+    list-style: none;
+}
+
+
+header nav ul li.li-item {
+    font-size: 30px;
+    font-weight: bolder;
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3)
 }
