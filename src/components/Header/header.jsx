@@ -9,6 +9,12 @@ export default function Header() {
                 <h1>ICM&A</h1>
             </div>
 
+            <nav className="nav-container">
+                <ul>
+                    <li className="li-item">+</li>
+                    <li className="li-item">?</li>
+                </ul>
+            </nav>
         </header>
     );
 }
