@@ -1,0 +1,1009 @@
+[
+  {
+    "incident_location": {
+      "address": {
+        "Street": "Tramo carretero km 12",
+        "Number": 634,
+        "city": "Monterrey",
+        "zip": 64579,
+        "state": "Nuevo León",
+        "country": "México"
+      },
+      "coordinates": {
+        "latitude": 25.732812,
+        "longitude": -100.355059
+      }
+    },
+    "dateTime": "2024-01-18T22:32:07",
+    "description": "Se reportó la quema de al menos 4 vehículos sobre Carretera Federal 40 (Monterrey-Reynosa), presuntamente como parte de un bloqueo coordinado.",
+    "category": "Quema de vehículo"
+  },
+  {
+    "incident_location": {
+      "address": {
+        "Street": "Autopista de cuota km 45",
+        "Number": 941,
+        "city": "Chilpancingo",
+        "zip": 39263,
+        "state": "Guerrero",
+        "country": "México"
+      },
+      "coordinates": {
+        "latitude": 17.886611,
+        "longitude": -99.693182
+      }
+    },
+    "dateTime": "2024-01-22T00:06:30",
+    "description": "Se identificaron puntos de vigilancia (halcones) con radios y motocicletas monitoreando el paso de autoridades por Autopista del Sol (México-Acapulco).",
+    "category": "Vigilancia / halconeo"
+  },
+  {
+    "incident_location": {
+      "address": {
+        "Street": "Puente Internacional",
+        "Number": 289,
+        "city": "Tijuana",
+        "zip": 22186,
+        "state": "Baja California",
+        "country": "México"
+      },
+      "coordinates": {
+        "latitude": 32.451206,
+        "longitude": -116.925336
+      }
+    },
+    "dateTime": "2024-02-07T12:07:27",
+    "description": "Grupo armado bloqueó la circulación en Garita Internacional San Ysidro-Tijuana utilizando vehículos incendiados; se reportan varias unidades atravesadas sobre el carril.",
+    "category": "Bloqueo carretero"
+  },
+  {
+    "incident_location": {
+      "address": {
+        "Street": "Caseta de peaje",
+        "Number": 974,
+        "city": "Cadereyta",
+        "zip": 64514,
+        "state": "Nuevo León",
+        "country": "México"
+      },
+      "coordinates": {
+        "latitude": 25.682944,
+        "longitude": -100.304416
+      }
+    },
+    "dateTime": "2024-02-07T12:07:27",
+    "description": "Sujetos armados colocaron un bloqueo con tráileres cruzados en Carretera Federal 40 (Monterrey-Reynosa), impidiendo el paso durante varias horas.",
+    "category": "Bloqueo carretero"
+  },
+  {
+    "incident_location": {
+      "address": {
+        "Street": "Entronque carretero",
+        "Number": 64,
+        "city": "Hermosillo",
+        "zip": 83986,
+        "state": "Sonora",
+        "country": "México"
+      },
+      "coordinates": {
+        "latitude": 29.91556,
+        "longitude": -111.021176
+      }
+    },
+    "dateTime": "2024-02-07T12:07:27",
+    "description": "Se reportó la quema de al menos 3 vehículos sobre Carretera Federal 15 (Corredor Nogales-Hermosillo), presuntamente como parte de un bloqueo coordinado.",
+    "category": "Quema de vehículo"
+  },
+  {
+    "incident_location": {
+      "address": {
+        "Street": "Caseta de peaje",
+        "Number": 104,
+        "city": "Zapopan",
+        "zip": 44409,
+        "state": "Jalisco",
+        "country": "México"
+      },
+      "coordinates": {
+        "latitude": 20.680218,
+        "longitude": -103.469286
+      }
+    },
+    "dateTime": "2024-02-26T06:18:36",
+    "description": "Un grupo armado interceptó a operadores de carga pesada en Autopista Guadalajara-Colima, despojándolos de mercancía y vehículos.",
+    "category": "Asalto armado a transportistas"
+  },
+  {
+    "incident_location": {
+      "address": {
+        "Street": "Blvd. Carretero",
+        "Number": 617,
+        "city": "Tijuana",
+        "zip": 22258,
+        "state": "Baja California",
+        "country": "México"
+      },
+      "coordinates": {
+        "latitude": 32.511407,
+        "longitude": -117.027717
+      }
+    },
+    "dateTime": "2024-02-26T06:18:36",
+    "description": "Se registró asalto con armas de fuego a transportistas sobre Garita Internacional San Ysidro-Tijuana, sin reportarse heridos.",
+    "category": "Asalto armado a transportistas"
+  },
+  {
+    "incident_location": {
+      "address": {
+        "Street": "Tramo carretero km 12",
+        "Number": 496,
+        "city": "Ciudad Juárez",
+        "zip": 32477,
+        "state": "Chihuahua",
+        "country": "México"
+      },
+      "coordinates": {
+        "latitude": 31.727341,
+        "longitude": -106.40069
+      }
+    },
+    "dateTime": "2024-02-26T06:18:36",
+    "description": "Un grupo armado interceptó a operadores de carga pesada en Carretera Panamericana / Puente Internacional, despojándolos de mercancía y vehículos.",
+    "category": "Asalto armado a transportistas"
+  },
+  {
+    "incident_location": {
+      "address": {
+        "Street": "Carretera Federal",
+        "Number": 16,
+        "city": "Toluca",
+        "zip": 52051,
+        "state": "Estado de México",
+        "country": "México"
+      },
+      "coordinates": {
+        "latitude": 19.335261,
+        "longitude": -99.057057
+      }
+    },
+    "dateTime": "2024-03-11T16:33:34",
+    "description": "Grupo armado bloqueó la circulación en Autopista México-Toluca utilizando vehículos incendiados; se reportan varias unidades atravesadas sobre el carril.",
+    "category": "Bloqueo carretero"
+  },
+  {
+    "incident_location": {
+      "address": {
+        "Street": "Av. de acceso a garita",
+        "Number": 826,
+        "city": "Ecatepec",
+        "zip": 56458,
+        "state": "Estado de México",
+        "country": "México"
+      },
+      "coordinates": {
+        "latitude": 19.518221,
+        "longitude": -99.209417
+      }
+    },
+    "dateTime": "2024-03-20T08:54:54",
+    "description": "Habitantes reportaron presencia de vigías armados en accesos cercanos a Autopista México-Toluca, presuntamente alertando movimientos de convoyes.",
+    "category": "Vigilancia / halconeo"
+  },
+  {
+    "incident_location": {
+      "address": {
+        "Street": "Av. de acceso a garita",
+        "Number": 439,
+        "city": "Acapulco",
+        "zip": 41749,
+        "state": "Guerrero",
+        "country": "México"
+      },
+      "coordinates": {
+        "latitude": 17.623965,
+        "longitude": -99.678814
+      }
+    },
+    "dateTime": "2024-04-23T20:52:09",
+    "description": "Se reportó la quema de al menos 4 vehículos sobre Autopista del Sol (México-Acapulco), presuntamente como parte de un bloqueo coordinado.",
+    "category": "Quema de vehículo"
+  },
+  {
+    "incident_location": {
+      "address": {
+        "Street": "Carretera Federal",
+        "Number": 634,
+        "city": "Tijuana",
+        "zip": 22577,
+        "state": "Baja California",
+        "country": "México"
+      },
+      "coordinates": {
+        "latitude": 32.459743,
+        "longitude": -116.943183
+      }
+    },
+    "dateTime": "2024-04-27T04:01:56",
+    "description": "Testigos observaron cómo un grupo armado roció con gasolina y prendió fuego a unidades de transporte en Garita Internacional San Ysidro-Tijuana.",
+    "category": "Quema de vehículo"
+  },
+  {
+    "incident_location": {
+      "address": {
+        "Street": "Blvd. Carretero",
+        "Number": 307,
+        "city": "Ciudad Juárez",
+        "zip": 32464,
+        "state": "Chihuahua",
+        "country": "México"
+      },
+      "coordinates": {
+        "latitude": 31.716584,
+        "longitude": -106.45344
+      }
+    },
+    "dateTime": "2024-04-27T04:01:56",
+    "description": "Se reportó la quema de al menos 3 vehículos sobre Carretera Panamericana / Puente Internacional, presuntamente como parte de un bloqueo coordinado.",
+    "category": "Quema de vehículo"
+  },
+  {
+    "incident_location": {
+      "address": {
+        "Street": "Tramo carretero km 12",
+        "Number": 295,
+        "city": "Nogales",
+        "zip": 83703,
+        "state": "Sonora",
+        "country": "México"
+      },
+      "coordinates": {
+        "latitude": 30.321175,
+        "longitude": -110.994961
+      }
+    },
+    "dateTime": "2024-04-27T04:01:56",
+    "description": "Grupo armado bloqueó la circulación en Carretera Federal 15 (Corredor Nogales-Hermosillo) utilizando vehículos incendiados; se reportan varias unidades atravesadas sobre el carril.",
+    "category": "Bloqueo carretero"
+  },
+  {
+    "incident_location": {
+      "address": {
+        "Street": "Entronque carretero",
+        "Number": 855,
+        "city": "Toluca",
+        "zip": 54459,
+        "state": "Estado de México",
+        "country": "México"
+      },
+      "coordinates": {
+        "latitude": 19.58184,
+        "longitude": -99.439209
+      }
+    },
+    "dateTime": "2024-05-05T09:26:01",
+    "description": "Un grupo armado interceptó a operadores de carga pesada en Autopista México-Toluca, despojándolos de mercancía y vehículos.",
+    "category": "Asalto armado a transportistas"
+  },
+  {
+    "incident_location": {
+      "address": {
+        "Street": "Caseta de peaje",
+        "Number": 874,
+        "city": "Reynosa",
+        "zip": 88199,
+        "state": "Tamaulipas",
+        "country": "México"
+      },
+      "coordinates": {
+        "latitude": 26.317216,
+        "longitude": -99.034381
+      }
+    },
+    "dateTime": "2024-05-09T17:53:21",
+    "description": "Se registró asalto con armas de fuego a transportistas sobre Carretera Federal 85 (México-Nuevo Laredo), sin reportarse heridos.",
+    "category": "Asalto armado a transportistas"
+  },
+  {
+    "incident_location": {
+      "address": {
+        "Street": "Carretera Federal",
+        "Number": 255,
+        "city": "Ecatepec",
+        "zip": 54589,
+        "state": "Estado de México",
+        "country": "México"
+      },
+      "coordinates": {
+        "latitude": 19.592136,
+        "longitude": -99.615112
+      }
+    },
+    "dateTime": "2024-06-08T09:29:05",
+    "description": "Habitantes reportaron presencia de vigías armados en accesos cercanos a Autopista México-Toluca, presuntamente alertando movimientos de convoyes.",
+    "category": "Vigilancia / halconeo"
+  },
+  {
+    "incident_location": {
+      "address": {
+        "Street": "Carretera Federal",
+        "Number": 642,
+        "city": "Morelia",
+        "zip": 58207,
+        "state": "Michoacán",
+        "country": "México"
+      },
+      "coordinates": {
+        "latitude": 19.201295,
+        "longitude": -101.803475
+      }
+    },
+    "dateTime": "2024-06-22T01:09:28",
+    "description": "Habitantes reportaron presencia de vigías armados en accesos cercanos a Autopista Siglo XXI (Morelia-Uruapan), presuntamente alertando movimientos de convoyes.",
+    "category": "Vigilancia / halconeo"
+  },
+  {
+    "incident_location": {
+      "address": {
+        "Street": "Entronque carretero",
+        "Number": 892,
+        "city": "Ciudad Juárez",
+        "zip": 32681,
+        "state": "Chihuahua",
+        "country": "México"
+      },
+      "coordinates": {
+        "latitude": 31.664611,
+        "longitude": -106.49446
+      }
+    },
+    "dateTime": "2024-07-21T19:32:24",
+    "description": "Operadores de transporte de carga reportaron cobro de derecho de piso para transitar por Carretera Panamericana / Puente Internacional.",
+    "category": "Extorsión a transportistas"
+  },
+  {
+    "incident_location": {
+      "address": {
+        "Street": "Blvd. Carretero",
+        "Number": 89,
+        "city": "Acapulco",
+        "zip": 41604,
+        "state": "Guerrero",
+        "country": "México"
+      },
+      "coordinates": {
+        "latitude": 17.803869,
+        "longitude": -99.775035
+      }
+    },
+    "dateTime": "2024-07-24T15:25:34",
+    "description": "Unidades de carga fueron interceptadas y despojadas de mercancía sobre Autopista del Sol (México-Acapulco) mediante uso de armas de fuego.",
+    "category": "Robo de carga con violencia"
+  },
+  {
+    "incident_location": {
+      "address": {
+        "Street": "Puente Internacional",
+        "Number": 884,
+        "city": "Ciudad Juárez",
+        "zip": 32068,
+        "state": "Chihuahua",
+        "country": "México"
+      },
+      "coordinates": {
+        "latitude": 31.612561,
+        "longitude": -106.414377
+      }
+    },
+    "dateTime": "2024-08-19T12:47:40",
+    "description": "Testigos observaron cómo un grupo armado roció con gasolina y prendió fuego a unidades de transporte en Carretera Panamericana / Puente Internacional.",
+    "category": "Quema de vehículo"
+  },
+  {
+    "incident_location": {
+      "address": {
+        "Street": "Entronque carretero",
+        "Number": 429,
+        "city": "Toluca",
+        "zip": 50704,
+        "state": "Estado de México",
+        "country": "México"
+      },
+      "coordinates": {
+        "latitude": 19.654852,
+        "longitude": -99.528241
+      }
+    },
+    "dateTime": "2024-09-08T12:40:48",
+    "description": "Grupo armado bloqueó la circulación en Autopista México-Toluca utilizando vehículos incendiados; se reportan varias unidades atravesadas sobre el carril.",
+    "category": "Bloqueo carretero"
+  },
+  {
+    "incident_location": {
+      "address": {
+        "Street": "Vía rápida federal",
+        "Number": 971,
+        "city": "Ciudad Juárez",
+        "zip": 32228,
+        "state": "Chihuahua",
+        "country": "México"
+      },
+      "coordinates": {
+        "latitude": 31.608867,
+        "longitude": -106.443455
+      }
+    },
+    "dateTime": "2024-09-08T12:40:48",
+    "description": "Sujetos armados colocaron un bloqueo con tráileres cruzados en Carretera Panamericana / Puente Internacional, impidiendo el paso durante varias horas.",
+    "category": "Bloqueo carretero"
+  },
+  {
+    "incident_location": {
+      "address": {
+        "Street": "Entronque carretero",
+        "Number": 148,
+        "city": "Morelia",
+        "zip": 59186,
+        "state": "Michoacán",
+        "country": "México"
+      },
+      "coordinates": {
+        "latitude": 18.937266,
+        "longitude": -101.355685
+      }
+    },
+    "dateTime": "2024-09-08T12:40:48",
+    "description": "Sujetos armados colocaron un bloqueo con tráileres cruzados en Autopista Siglo XXI (Morelia-Uruapan), impidiendo el paso durante varias horas.",
+    "category": "Bloqueo carretero"
+  },
+  {
+    "incident_location": {
+      "address": {
+        "Street": "Blvd. Carretero",
+        "Number": 83,
+        "city": "Apatzingán",
+        "zip": 59431,
+        "state": "Michoacán",
+        "country": "México"
+      },
+      "coordinates": {
+        "latitude": 19.546853,
+        "longitude": -101.504559
+      }
+    },
+    "dateTime": "2024-09-23T03:11:41",
+    "description": "Se identificaron puntos de vigilancia (halcones) con radios y motocicletas monitoreando el paso de autoridades por Autopista Siglo XXI (Morelia-Uruapan).",
+    "category": "Vigilancia / halconeo"
+  },
+  {
+    "incident_location": {
+      "address": {
+        "Street": "Carretera Federal",
+        "Number": 845,
+        "city": "Guadalajara",
+        "zip": 44396,
+        "state": "Jalisco",
+        "country": "México"
+      },
+      "coordinates": {
+        "latitude": 20.585253,
+        "longitude": -103.314388
+      }
+    },
+    "dateTime": "2024-10-03T06:39:25",
+    "description": "Unidades de carga fueron interceptadas y despojadas de mercancía sobre Autopista Guadalajara-Colima mediante uso de armas de fuego.",
+    "category": "Robo de carga con violencia"
+  },
+  {
+    "incident_location": {
+      "address": {
+        "Street": "Puente Internacional",
+        "Number": 945,
+        "city": "Ecatepec",
+        "zip": 54286,
+        "state": "Estado de México",
+        "country": "México"
+      },
+      "coordinates": {
+        "latitude": 19.453876,
+        "longitude": -99.501875
+      }
+    },
+    "dateTime": "2024-10-07T23:33:16",
+    "description": "Habitantes reportaron presencia de vigías armados en accesos cercanos a Autopista México-Toluca, presuntamente alertando movimientos de convoyes.",
+    "category": "Vigilancia / halconeo"
+  },
+  {
+    "incident_location": {
+      "address": {
+        "Street": "Entronque carretero",
+        "Number": 86,
+        "city": "Reynosa",
+        "zip": 87686,
+        "state": "Tamaulipas",
+        "country": "México"
+      },
+      "coordinates": {
+        "latitude": 26.170372,
+        "longitude": -99.134084
+      }
+    },
+    "dateTime": "2024-10-11T19:46:46",
+    "description": "Se reportó la privación ilegal de la libertad de un conductor en un punto de revisión irregular sobre Carretera Federal 85 (México-Nuevo Laredo).",
+    "category": "Privación ilegal de la libertad"
+  },
+  {
+    "incident_location": {
+      "address": {
+        "Street": "Autopista de cuota km 45",
+        "Number": 783,
+        "city": "Acapulco",
+        "zip": 41737,
+        "state": "Guerrero",
+        "country": "México"
+      },
+      "coordinates": {
+        "latitude": 18.759867,
+        "longitude": -99.604811
+      }
+    },
+    "dateTime": "2024-11-02T16:02:36",
+    "description": "Se registró asalto con armas de fuego a transportistas sobre Autopista del Sol (México-Acapulco), sin reportarse heridos.",
+    "category": "Asalto armado a transportistas"
+  },
+  {
+    "incident_location": {
+      "address": {
+        "Street": "Autopista de cuota km 45",
+        "Number": 968,
+        "city": "Tijuana",
+        "zip": 22860,
+        "state": "Baja California",
+        "country": "México"
+      },
+      "coordinates": {
+        "latitude": 32.50799,
+        "longitude": -116.981569
+      }
+    },
+    "dateTime": "2024-11-02T16:02:36",
+    "description": "Se registró asalto con armas de fuego a transportistas sobre Garita Internacional San Ysidro-Tijuana, sin reportarse heridos.",
+    "category": "Asalto armado a transportistas"
+  },
+  {
+    "incident_location": {
+      "address": {
+        "Street": "Tramo carretero km 12",
+        "Number": 292,
+        "city": "Morelia",
+        "zip": 60367,
+        "state": "Michoacán",
+        "country": "México"
+      },
+      "coordinates": {
+        "latitude": 19.484927,
+        "longitude": -101.959432
+      }
+    },
+    "dateTime": "2024-11-02T16:02:36",
+    "description": "Habitantes reportaron presencia de vigías armados en accesos cercanos a Autopista Siglo XXI (Morelia-Uruapan), presuntamente alertando movimientos de convoyes.",
+    "category": "Vigilancia / halconeo"
+  },
+  {
+    "incident_location": {
+      "address": {
+        "Street": "Vía rápida federal",
+        "Number": 927,
+        "city": "Ciudad Juárez",
+        "zip": 32154,
+        "state": "Chihuahua",
+        "country": "México"
+      },
+      "coordinates": {
+        "latitude": 31.625501,
+        "longitude": -106.487296
+      }
+    },
+    "dateTime": "2025-01-06T18:09:34",
+    "description": "Se reportó la privación ilegal de la libertad de un conductor en un punto de revisión irregular sobre Carretera Panamericana / Puente Internacional.",
+    "category": "Privación ilegal de la libertad"
+  },
+  {
+    "incident_location": {
+      "address": {
+        "Street": "Caseta de peaje",
+        "Number": 156,
+        "city": "Zapopan",
+        "zip": 44367,
+        "state": "Jalisco",
+        "country": "México"
+      },
+      "coordinates": {
+        "latitude": 20.748142,
+        "longitude": -103.236549
+      }
+    },
+    "dateTime": "2025-02-05T01:10:23",
+    "description": "Sujetos armados colocaron un bloqueo con tráileres cruzados en Autopista Guadalajara-Colima, impidiendo el paso durante varias horas.",
+    "category": "Bloqueo carretero"
+  },
+  {
+    "incident_location": {
+      "address": {
+        "Street": "Puente Internacional",
+        "Number": 373,
+        "city": "Reynosa",
+        "zip": 87007,
+        "state": "Tamaulipas",
+        "country": "México"
+      },
+      "coordinates": {
+        "latitude": 26.115098,
+        "longitude": -98.961927
+      }
+    },
+    "dateTime": "2025-02-06T15:37:04",
+    "description": "Autoridades reportaron intercambio de disparos en las inmediaciones de Carretera Federal 85 (México-Nuevo Laredo) durante un operativo de seguridad.",
+    "category": "Enfrentamiento armado"
+  },
+  {
+    "incident_location": {
+      "address": {
+        "Street": "Libramiento Norte",
+        "Number": 436,
+        "city": "Tijuana",
+        "zip": 22058,
+        "state": "Baja California",
+        "country": "México"
+      },
+      "coordinates": {
+        "latitude": 32.520042,
+        "longitude": -117.036581
+      }
+    },
+    "dateTime": "2025-02-14T04:40:24",
+    "description": "Testigos observaron cómo un grupo armado roció con gasolina y prendió fuego a unidades de transporte en Garita Internacional San Ysidro-Tijuana.",
+    "category": "Quema de vehículo"
+  },
+  {
+    "incident_location": {
+      "address": {
+        "Street": "Tramo carretero km 12",
+        "Number": 334,
+        "city": "Ciudad Juárez",
+        "zip": 32064,
+        "state": "Chihuahua",
+        "country": "México"
+      },
+      "coordinates": {
+        "latitude": 31.684259,
+        "longitude": -106.424001
+      }
+    },
+    "dateTime": "2025-02-14T07:25:53",
+    "description": "Habitantes reportaron presencia de vigías armados en accesos cercanos a Carretera Panamericana / Puente Internacional, presuntamente alertando movimientos de convoyes.",
+    "category": "Vigilancia / halconeo"
+  },
+  {
+    "incident_location": {
+      "address": {
+        "Street": "Av. de acceso a garita",
+        "Number": 166,
+        "city": "Ciudad Juárez",
+        "zip": 32683,
+        "state": "Chihuahua",
+        "country": "México"
+      },
+      "coordinates": {
+        "latitude": 31.73274,
+        "longitude": -106.48372
+      }
+    },
+    "dateTime": "2025-02-25T21:28:04",
+    "description": "Unidades de carga fueron interceptadas y despojadas de mercancía sobre Carretera Panamericana / Puente Internacional mediante uso de armas de fuego.",
+    "category": "Robo de carga con violencia"
+  },
+  {
+    "incident_location": {
+      "address": {
+        "Street": "Libramiento Norte",
+        "Number": 45,
+        "city": "Uruapan",
+        "zip": 60546,
+        "state": "Michoacán",
+        "country": "México"
+      },
+      "coordinates": {
+        "latitude": 19.234208,
+        "longitude": -101.293031
+      }
+    },
+    "dateTime": "2025-05-14T08:50:34",
+    "description": "Se identificaron puntos de vigilancia (halcones) con radios y motocicletas monitoreando el paso de autoridades por Autopista Siglo XXI (Morelia-Uruapan).",
+    "category": "Vigilancia / halconeo"
+  },
+  {
+    "incident_location": {
+      "address": {
+        "Street": "Libramiento Norte",
+        "Number": 757,
+        "city": "Guadalajara",
+        "zip": 44688,
+        "state": "Jalisco",
+        "country": "México"
+      },
+      "coordinates": {
+        "latitude": 20.648108,
+        "longitude": -103.434538
+      }
+    },
+    "dateTime": "2025-05-20T14:17:53",
+    "description": "Testigos observaron cómo un grupo armado roció con gasolina y prendió fuego a unidades de transporte en Autopista Guadalajara-Colima.",
+    "category": "Quema de vehículo"
+  },
+  {
+    "incident_location": {
+      "address": {
+        "Street": "Puente Internacional",
+        "Number": 905,
+        "city": "Apatzingán",
+        "zip": 60250,
+        "state": "Michoacán",
+        "country": "México"
+      },
+      "coordinates": {
+        "latitude": 18.964465,
+        "longitude": -101.805894
+      }
+    },
+    "dateTime": "2025-05-20T14:17:53",
+    "description": "Testigos observaron cómo un grupo armado roció con gasolina y prendió fuego a unidades de transporte en Autopista Siglo XXI (Morelia-Uruapan).",
+    "category": "Quema de vehículo"
+  },
+  {
+    "incident_location": {
+      "address": {
+        "Street": "Entronque carretero",
+        "Number": 981,
+        "city": "Tijuana",
+        "zip": 22699,
+        "state": "Baja California",
+        "country": "México"
+      },
+      "coordinates": {
+        "latitude": 32.52064,
+        "longitude": -116.90203
+      }
+    },
+    "dateTime": "2025-05-20T14:17:53",
+    "description": "Se reportó la quema de al menos 2 vehículos sobre Garita Internacional San Ysidro-Tijuana, presuntamente como parte de un bloqueo coordinado.",
+    "category": "Quema de vehículo"
+  },
+  {
+    "incident_location": {
+      "address": {
+        "Street": "Libramiento Norte",
+        "Number": 260,
+        "city": "Ciudad Juárez",
+        "zip": 32374,
+        "state": "Chihuahua",
+        "country": "México"
+      },
+      "coordinates": {
+        "latitude": 31.740926,
+        "longitude": -106.435654
+      }
+    },
+    "dateTime": "2025-06-19T23:47:31",
+    "description": "Se registró asalto con armas de fuego a transportistas sobre Carretera Panamericana / Puente Internacional, sin reportarse heridos.",
+    "category": "Asalto armado a transportistas"
+  },
+  {
+    "incident_location": {
+      "address": {
+        "Street": "Av. de acceso a garita",
+        "Number": 29,
+        "city": "Toluca",
+        "zip": 56767,
+        "state": "Estado de México",
+        "country": "México"
+      },
+      "coordinates": {
+        "latitude": 19.416905,
+        "longitude": -99.002606
+      }
+    },
+    "dateTime": "2025-06-21T12:52:23",
+    "description": "Operadores de transporte de carga reportaron cobro de derecho de piso para transitar por Autopista México-Toluca.",
+    "category": "Extorsión a transportistas"
+  },
+  {
+    "incident_location": {
+      "address": {
+        "Street": "Tramo carretero km 12",
+        "Number": 560,
+        "city": "Guadalajara",
+        "zip": 44985,
+        "state": "Jalisco",
+        "country": "México"
+      },
+      "coordinates": {
+        "latitude": 20.780393,
+        "longitude": -103.468116
+      }
+    },
+    "dateTime": "2025-06-24T18:02:55",
+    "description": "Unidades de carga fueron interceptadas y despojadas de mercancía sobre Autopista Guadalajara-Colima mediante uso de armas de fuego.",
+    "category": "Robo de carga con violencia"
+  },
+  {
+    "incident_location": {
+      "address": {
+        "Street": "Tramo carretero km 12",
+        "Number": 932,
+        "city": "Guadalajara",
+        "zip": 44103,
+        "state": "Jalisco",
+        "country": "México"
+      },
+      "coordinates": {
+        "latitude": 20.601321,
+        "longitude": -103.355204
+      }
+    },
+    "dateTime": "2025-07-29T01:08:49",
+    "description": "Se registró un enfrentamiento con armas largas entre grupos rivales cerca de Autopista Guadalajara-Colima, con saldo de vehículos calcinados.",
+    "category": "Enfrentamiento armado"
+  },
+  {
+    "incident_location": {
+      "address": {
+        "Street": "Puente Internacional",
+        "Number": 484,
+        "city": "Hermosillo",
+        "zip": 83057,
+        "state": "Sonora",
+        "country": "México"
+      },
+      "coordinates": {
+        "latitude": 29.817794,
+        "longitude": -111.094204
+      }
+    },
+    "dateTime": "2025-08-05T06:56:05",
+    "description": "Operadores de transporte de carga reportaron cobro de derecho de piso para transitar por Carretera Federal 15 (Corredor Nogales-Hermosillo).",
+    "category": "Extorsión a transportistas"
+  },
+  {
+    "incident_location": {
+      "address": {
+        "Street": "Libramiento Norte",
+        "Number": 840,
+        "city": "Mazatlán",
+        "zip": 81107,
+        "state": "Sinaloa",
+        "country": "México"
+      },
+      "coordinates": {
+        "latitude": 23.2673,
+        "longitude": -106.621003
+      }
+    },
+    "dateTime": "2025-08-11T20:48:32",
+    "description": "Unidades de carga fueron interceptadas y despojadas de mercancía sobre Autopista Mazatlán-Culiacán mediante uso de armas de fuego.",
+    "category": "Robo de carga con violencia"
+  },
+  {
+    "incident_location": {
+      "address": {
+        "Street": "Av. de acceso a garita",
+        "Number": 88,
+        "city": "Toluca",
+        "zip": 57314,
+        "state": "Estado de México",
+        "country": "México"
+      },
+      "coordinates": {
+        "latitude": 19.613205,
+        "longitude": -99.232751
+      }
+    },
+    "dateTime": "2025-08-22T13:57:56",
+    "description": "Grupo armado bloqueó la circulación en Autopista México-Toluca utilizando vehículos incendiados; se reportan varias unidades atravesadas sobre el carril.",
+    "category": "Bloqueo carretero"
+  },
+  {
+    "incident_location": {
+      "address": {
+        "Street": "Caseta de peaje",
+        "Number": 135,
+        "city": "Cadereyta",
+        "zip": 66247,
+        "state": "Nuevo León",
+        "country": "México"
+      },
+      "coordinates": {
+        "latitude": 25.69718,
+        "longitude": -100.294878
+      }
+    },
+    "dateTime": "2025-10-05T18:59:02",
+    "description": "Grupo armado bloqueó la circulación en Carretera Federal 40 (Monterrey-Reynosa) utilizando vehículos incendiados; se reportan varias unidades atravesadas sobre el carril.",
+    "category": "Bloqueo carretero"
+  },
+  {
+    "incident_location": {
+      "address": {
+        "Street": "Entronque carretero",
+        "Number": 356,
+        "city": "Hermosillo",
+        "zip": 83286,
+        "state": "Sonora",
+        "country": "México"
+      },
+      "coordinates": {
+        "latitude": 29.456836,
+        "longitude": -110.923614
+      }
+    },
+    "dateTime": "2025-10-18T16:17:07",
+    "description": "Grupo armado bloqueó la circulación en Carretera Federal 15 (Corredor Nogales-Hermosillo) utilizando vehículos incendiados; se reportan varias unidades atravesadas sobre el carril.",
+    "category": "Bloqueo carretero"
+  },
+  {
+    "incident_location": {
+      "address": {
+        "Street": "Caseta de peaje",
+        "Number": 778,
+        "city": "Culiacán",
+        "zip": 81249,
+        "state": "Sinaloa",
+        "country": "México"
+      },
+      "coordinates": {
+        "latitude": 23.507948,
+        "longitude": -106.467753
+      }
+    },
+    "dateTime": "2025-11-01T13:32:42",
+    "description": "Habitantes reportaron presencia de vigías armados en accesos cercanos a Autopista Mazatlán-Culiacán, presuntamente alertando movimientos de convoyes.",
+    "category": "Vigilancia / halconeo"
+  },
+  {
+    "incident_location": {
+      "address": {
+        "Street": "Autopista de cuota km 45",
+        "Number": 148,
+        "city": "Nogales",
+        "zip": 83541,
+        "state": "Sonora",
+        "country": "México"
+      },
+      "coordinates": {
+        "latitude": 30.160892,
+        "longitude": -111.09901
+      }
+    },
+    "dateTime": "2025-12-06T11:09:59",
+    "description": "Unidades de carga fueron interceptadas y despojadas de mercancía sobre Carretera Federal 15 (Corredor Nogales-Hermosillo) mediante uso de armas de fuego.",
+    "category": "Robo de carga con violencia"
+  },
+  {
+    "incident_location": {
+      "address": {
+        "Street": "Carretera Federal",
+        "Number": 347,
+        "city": "Acapulco",
+        "zip": 40498,
+        "state": "Guerrero",
+        "country": "México"
+      },
+      "coordinates": {
+        "latitude": 17.548891,
+        "longitude": -99.835464
+      }
+    },
+    "dateTime": "2025-12-11T00:54:45",
+    "description": "Se reportó la privación ilegal de la libertad de un conductor en un punto de revisión irregular sobre Autopista del Sol (México-Acapulco).",
+    "category": "Privación ilegal de la libertad"
+  }
+]
