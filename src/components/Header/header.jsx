@@ -1,3 +1,4 @@
+import { Button } from "@heroui/react";
 import mexLogo from "../../assets/mexLogo.png";
 import "./header.css";
 
@@ -11,8 +12,8 @@ export default function Header() {
 
             <nav className="nav-container">
                 <ul>
-                    <li className="li-item">+</li>
-                    <li className="li-item">?</li>
+
+                    <li className="li-item">Login</li>
                 </ul>
             </nav>
         </header>
