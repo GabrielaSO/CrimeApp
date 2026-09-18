@@ -1,3 +1,6 @@
+@import "tailwindcss";
+@import "@heroui/styles"; 
+
 header.header {
     background-color: #5a5a5a;
     color: white;
@@ -8,9 +11,11 @@ header.header {
     position: relative;
     /* Helps layer the shadow correctly */
     z-index: 10;
+
 }
 
 header .header-content {
+    cursor: url(../../assets/marker01.png) 16 16, pointer;
     display: inline-flex;
     align-items: center;
     /*gap: 10px; Adjust the gap as needed */
@@ -44,7 +49,7 @@ header nav ul {
 
 
 header nav ul li.li-item {
-    font-size: 30px;
+    font-size: 16px;
     font-weight: bolder;
     color: white;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3)
