@@ -8,7 +8,7 @@ import scheme from "../../Schemas/location-schema.json"
 console.log(data)
 
 const pois = data.map((record, index) => ({
-    key: `poi-${index}`, 
+    key: `poi-${index}`,
     location: {
         lat: record.incident_location.coordinates.latitude,
         lng: record.incident_location.coordinates.longitude
@@ -23,9 +23,9 @@ const PoiMarkers = ({ pois }) => {
                     <AdvancedMarker
                         key={poi.key}
                         position={poi.location}>
-                        <Pin background={'#FBBC04'} glyphColor={'#000'} borderColor={'#000'
+                        <img src={marker01} alt="marker" style={{ width: 32, height: 32 }} />
 
-                        } />
+                        {/* <Pin background={'#FBBC04'} glyphColor={'#000'} borderColor={'#000'}></Pin> */}
                     </AdvancedMarker>
                 ))
             }
@@ -40,14 +40,8 @@ export default function MapComponent() {
         <div className="container">
             <APIProvider apiKey={import.meta.env.VITE_GOOGLE_MAPS_API_KEY} onLoad={() => console.log('Maps API has loaded.')}>
                 <div className='map'>
-                    <Map
-                        defaultCenter={position}
-                        defaultZoom={20}
-                        gestureHandling={'greedy'}
-                        disableDefaultUI={false}
-                        mapId={import.meta.env.VITE_GOOGLE_MAPS_ID}
-                    >
-                        <PoiMarkers pois={pois}/>
+                    <Map defaultCenter={position} defaultZoom={8} gestureHandling={'greedy'} disableDefaultUI={false} mapId={import.meta.env.VITE_GOOGLE_MAPS_ID}>
+                        <PoiMarkers pois={pois} />
                     </Map>
                 </div>
             </APIProvider>
